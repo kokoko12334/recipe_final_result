@@ -15,6 +15,7 @@ start1 = datetime.datetime.now()
 with open ('./model_data/dic2.pkl', 'rb') as f:
   
   dic = pickle.load(f)
+
 #lst_a
 with open ('./model_data/lst_a.p', 'rb') as f:
   
