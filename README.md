@@ -1,7 +1,5 @@
 # 파일/폴더 내용
 
----
-
 
 
 1. `recipe_model.py`: 레시피 추천 모델, 재료추천 모델
@@ -22,7 +20,5 @@
 
 # 시연 영상
 
----
-
- 영상 링크: https://youtu.be/y-I08XXsMek
+영상 링크: https://youtu.be/y-I08XXsMek
 
