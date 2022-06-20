@@ -30,5 +30,5 @@
 
 # 시연 영상
 
-영상 링크: https://youtu.be/y-I08XXsMek
+​	[영상 링크](https://youtu.be/y-I08XXsMek)
 
