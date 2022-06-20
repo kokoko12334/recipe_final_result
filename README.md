@@ -8,7 +8,17 @@
 4. `model_data`:  `Word2Vec` 파일 이외 데이터들
 5. `templates`: 웹사이트 html/css/js
 
+
+
+---
+
+
+
 ![싫은재료등록화면](image/싫은재료등록화면.PNG)
+
+---
+
+
 
 ![추천웹사이트](image/추천웹사이트.PNG)
 
